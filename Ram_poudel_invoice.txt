@@ -1,0 +1,48 @@
+
+
+Invoice for renting land:
+Date and Time of Rent: 2024-05-01 19:40:25.136706
+Kitta Number: 106
+Customer Name: Ram poudel
+Customer Address: damak
+Customer Age: 20
+City/District: Dharan
+Land Faced: East
+Area of Land: 8 anna
+Duration of Rent: 5 months
+Total Amount: 4500000 NPR
+
+
+Invoice for renting land:
+Date and Time of Rent: 2024-05-01 19:41:04.378029
+Kitta Number: 110
+Customer Name: Ram poudel
+Customer Address: damak
+Customer Age: 20
+City/District: Ghorahi
+Land Faced: East
+Area of Land: 12 anna
+Duration of Rent: 5 months
+Total Amount: 650000 NPR
+
+
+Return Invoice for returning land:
+Return Date: 2024-05-01 19:46:25.334705
+Land Kitta Number: 106
+Customer Name: Ram poudel
+Customer Address: damak
+Customer Age: 20
+Duration of Return: 10 months
+Rent Cost: 4500000 NPR
+Fine Applied: 5000 NPR
+
+
+Return Invoice for returning land:
+Return Date: 2024-05-01 19:47:07.898711
+Land Kitta Number: 110
+Customer Name: Ram poudel
+Customer Address: damak
+Customer Age: 20
+Duration of Return: 12 months
+Rent Cost: 650000 NPR
+Fine Applied: 7000 NPR

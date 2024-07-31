@@ -1,0 +1,13 @@
+
+
+Invoice for renting land:
+Date and Time of Rent: 2024-05-06 15:59:05.943220
+Kitta Number: 124
+Customer Name: Anish Sapkota
+Customer Address: Damak
+Customer Age: 27
+City/District: Siraha
+Land Faced: West
+Area of Land: 26 anna
+Duration of Rent: 6 months
+Total Amount: 1620000 NPR

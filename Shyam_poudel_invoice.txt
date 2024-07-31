@@ -1,0 +1,24 @@
+
+
+Invoice for renting land:
+Date and Time of Rent: 2024-05-06 15:54:06.868271
+Kitta Number: 112
+Customer Name: Shyam poudel
+Customer Address: Damak
+Customer Age: 25
+City/District: Butwal
+Land Faced: West
+Area of Land: 14 anna
+Duration of Rent: 5 months
+Total Amount: 750000 NPR
+
+
+Return Invoice for returning land:
+Return Date: 2024-05-06 15:54:37.304558
+Land Kitta Number: 112
+Customer Name: Shyam poudel
+Customer Address: Damak
+Customer Age: 25
+Duration of Return: 10 months
+Rent Cost: 750000 NPR
+Fine Applied: 5000 NPR
